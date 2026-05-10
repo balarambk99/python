@@ -1,1 +1,1 @@
-print("well come to my jungel iam kurady the bear and i will be your guide to the jungel")
+print("well come to my jungel iam kurady the bear and i will be your guide to  hello friends wellcome to wolrd")
