@@ -9,6 +9,7 @@ with open(file_name, "w") as f:
     f.write("Hello! This file was created by Python inside Jenkins.\n")
     f.write("Build test: SUCCESSFUL\n")
 print("hello freinds wellcome to jenkins")
+print("This file has been created and written to successfully.")
 
 # 2. Read the content back
 print(f"--- Reading content from: {file_name} ---")
