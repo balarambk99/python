@@ -8,6 +8,7 @@ print(f"--- Creating file: {file_name} ---")
 with open(file_name, "w") as f:
     f.write("Hello! This file was created by Python inside Jenkins.\n")
     f.write("Build test: SUCCESSFUL\n")
+print("hello freinds wellcome to jenkins")
 
 # 2. Read the content back
 print(f"--- Reading content from: {file_name} ---")
